@@ -1,0 +1,22 @@
+{
+    "name": "newa",
+    "publisher": "xuyawen",
+    "displayName": "newa",
+    "description": "theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "xuyawen",
+                "uiTheme": "vs",
+                "path": "./themes/xuyawen-color-theme.json"
+            }
+        ]
+    }
+}
