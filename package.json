@@ -5,8 +5,14 @@
 	"description": "theme",
 	"version": "0.0.2",
 	"repository": "https://github.com/xuyawen/newa-vscode-theme",
+	"keywords": [
+    "dark",
+    "light",
+    "newa",
+    "theme"
+  ],
 	"engines": {
-		"vscode": "^1.57.0"
+		"vscode": "*"
 	},
 	"categories": [
 		"Themes"
@@ -14,9 +20,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "xuyawen",
+				"label": "newa-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/newa-dark-theme.json"
+			},
+			{
+				"label": "newa-light",
 				"uiTheme": "vs",
-				"path": "./themes/xuyawen-color-theme.json"
+				"path": "./themes/newa-light-theme.json"
 			}
 		]
 	}

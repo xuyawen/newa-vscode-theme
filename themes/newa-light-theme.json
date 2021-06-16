@@ -1,6 +1,7 @@
 {
-	"name": "xuyawen",
+	"name": "newa-light",
 	"type": "light",
+	"author": "xuyawen",
 	"colors": {
 		"editor.background": "#FFFFFF",
 		"editor.foreground": "#333333",
@@ -15,7 +16,7 @@
 		"titleBar.activeBackground": "#2063f3",
 		"titleBar.inactiveForeground": "#FFFFFF",
 		"titleBar.inactiveBackground": "#2063f3",
-		"titleBar.border": "#2063f3",
+		"titleBar.border": "#2063f3"
 	},
 	"tokenColors": [
 		{
