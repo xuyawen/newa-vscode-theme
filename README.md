@@ -2,7 +2,9 @@
 
 ## This is my extension "newa"
 
-this [repo](https://github.com/xuyawen/newa-vscode-theme) in VS Code.
+![light](https://github.com/xuyawen/newa-vscode-theme/images/20210618120257.png)
+
+![dark](https://github.com/xuyawen/newa-vscode-theme/images/20210618120359.png)
 
 ### For more information
 
